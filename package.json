@@ -16,9 +16,7 @@
     "fs-equals": "0.2.6",
     "hydro-dot": "*",
     "hydro-bdd": "*",
-    "hydro": "*",
-    "jsmd": "*",
-    "chai": "*"
+    "hydro": "*"
   },
   "repository": "git://github.com/jkroso/node-cp-r.git",
   "bugs": "https://github.com/jkroso/node-cp-r/issues",
