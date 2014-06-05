@@ -1,25 +1,24 @@
 {
   "name": "cp-r",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "cp -r for node with no options!",
   "keywords": ["cp","cp-r","copy","fs"],
   "dependencies": {
     "foreach": "jkroso/forEach#0.8.10",
-    "lift-result": "~0.1.4",
+    "lift-result": "~0.1.5",
     "result-type": "1.0.0",
-    "result": "~1.0.1",
-    "mkdirp": "~0.3.5"
+    "result": "~1.0.2",
+    "mkdirp": "^0.5.0"
   },
   "devDependencies": {
     "hydro-clean-dir": "hydrojs/hydro-clean-dir#0.0.2",
+    "fs-equals": "^0.2.6",
     "better-assert": "*",
-    "fs-equals": "0.2.6",
     "hydro-dot": "*",
     "hydro-bdd": "*",
     "hydro": "*"
   },
   "repository": "git://github.com/jkroso/node-cp-r.git",
-  "bugs": "https://github.com/jkroso/node-cp-r/issues",
   "author": "Jake Rosoman",
   "files": ["index.js"],
   "license": "MIT"
